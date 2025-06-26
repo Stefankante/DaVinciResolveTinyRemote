@@ -1,0 +1,1 @@
+"%ProgramFiles%\Blackmagic Design\DaVinci Resolve\DaVinciPanelDaemon.exe" -t PROX -p "%ProgramFiles%\Blackmagic Design\DaVinci Resolve\UI_Resource" -l "%APPDATA%\Blackmagic Design\DaVinci Resolve\Support\logs\panel.log"
