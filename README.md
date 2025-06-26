@@ -14,8 +14,8 @@ Compatibility & Performance
 
 DaVinci Resolve Tiny Remote has been successfully tested on:
 
-X86-64 Windows X-Lite Micro 10
-Windows 11 ARM
+- Windows 11 ARM
+- X86-64 Windows X-Lite Micro 10
 Dell WYSE 3040 Thin Client: This particular setup is ideal for quiet environments as it consumes less than 15W of power and operates without a fan. 
 Its 8GB flash storage necessitates a minimal Windows installation, such as Windows X-Lite Micro 10.
 
