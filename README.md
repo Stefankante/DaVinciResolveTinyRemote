@@ -11,7 +11,7 @@ DISCAIMER : I didn't make this software from the ground up, this is just strippi
 
 This software has been tested on X86-64 Windows X-Lite Micro 10 and also Windows11 ARM.
 
-In this case I installed on Dell WYSE 3040 Thin Client PC which consume <15W of power and have no fan, runs cool
+In this case I installed on Dell WYSE 3040 Thin Client.
 
 
 ![IMG_0297](https://github.com/user-attachments/assets/ab7a1658-a783-4715-b590-f2ae8a24467d)
