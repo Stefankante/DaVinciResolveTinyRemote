@@ -21,6 +21,8 @@ Its 8GB flash storage necessitates a minimal Windows installation, such as Windo
 
 ![IMG_0297](https://github.com/user-attachments/assets/ab7a1658-a783-4715-b590-f2ae8a24467d)
 
+![Screenshot 2568-06-26 at 10 58 29](https://github.com/user-attachments/assets/37e58230-74ca-4511-a2ad-7a1e4bc36aa6)
+
 Installation Guide
 
 Getting DaVinci Resolve Tiny Remote up and running is straightforward:
