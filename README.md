@@ -35,6 +35,9 @@ You can download it from Microsoft's official site: https://learn.microsoft.com/
       It creates C:\Program Files\Blackmagic Design\DaVinci Resolve\ and copies DaVinciPanelDaemon.exe into it.
       It also creates C:\Users\XXX\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\logs, which is necessary for the daemon to function correctly.
       also creates shortcuts on your desktop: DaVinciRemotePanel.bat and DaVinciRemoteAdvPanel.bat, for easy execution.
+
+Open Davinci Resolve on target machine navigate to Preference > Advnaced : then type "Local.Panel.Remote.Address = REMOTE_IP:20323" where REMOTE_IP is the machine install TinyRemote
+  
 ENJOY!!!!!!
 
 FOR MORE Spicy seasoning to make more use of this computer.
