@@ -9,12 +9,14 @@ This give me idea of stripped just the script responsible for Remote Panel daemo
 
 DISCAIMER : I didn't make this software from the ground up, this is just stripping original files from Resolve itself just essential for this purpose.
 
-This software has been tested on X86-64 Windows10 X-Lite Compact and also Windows11 ARM.
+This software has been tested on X86-64 Windows X-Lite Micro 10 and also Windows11 ARM.
 
 In this case I installed on Dell WYSE 3040 Thin Client PC which consume <15W of power and have no fan, runs cool
 
 
 ![IMG_0297](https://github.com/user-attachments/assets/ab7a1658-a783-4715-b590-f2ae8a24467d)
+This PC consume less than 15W of power and cool operation without fan suited for quiet environment.
+The Flash storage only has 8GB so please use tiniest windows possible, Windows X-Lite Micro 10 in my case.
 
 
 HOW TO INSTALL : 
