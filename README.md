@@ -15,7 +15,7 @@ In this case I installed on Dell WYSE 3040 Thin Client PC which consume <15W of 
 
 
 ![IMG_0297](https://github.com/user-attachments/assets/ab7a1658-a783-4715-b590-f2ae8a24467d)
-![IMG_0297](https://github.com/user-attachments/assets/ab7a1658-a783-4715-b590-f2ae8a24467d)
+
 
 HOW TO INSTALL : 
 - Unzip the package
