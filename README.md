@@ -8,7 +8,7 @@ a common scenario where standard KVM switches fall short by only transmitting mo
 While DaVinci Resolve itself offers remote panel capabilities, it requires installing the entire suite just to access this function. 
 DaVinci Resolve Tiny Remote streamlines this by stripping down the necessary files to a mere 1.4MB installation, focusing solely on the remote panel daemon.
 
-Please Note: This software is not built from scratch; it's a meticulously extracted and essential set of files from the original DaVinci Resolve installation.
+Please Note: This software is not built from scratch; Extracted essential set of files from the original DaVinci Resolve installation.
 
 Compatibility & Performance
 
